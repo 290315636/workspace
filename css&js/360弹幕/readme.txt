@@ -1,0 +1,9 @@
+本系统仿照360弹幕而成
+
+运用css+jquery
+
+author:msspring
+
+qq:290315636
+
+欢迎交流
