@@ -47,7 +47,16 @@
 				$(".btn").click(function () {
 					$(".screen").toggle("slow");
 				});
-			
+				
+				//说两句 enter发表
+			$(".con div").focus(function () {
+				alert($(this).val());
+				alert(window.event.keyCode);
+				//if($(this).val()!=''&&window.event.keyCode==13){
+				//	$(".con").append($("<div class='flash animated' style='color:"+getRandomColor()+";'>"+$(this).val()+"</div>"));
+				//}
+			});
+				
 			});	
 			
 			//说两句 发表
