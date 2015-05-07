@@ -12,7 +12,7 @@
 			.auto{width:700px;height:180px;margin:150px auto;}
 			.auto h1{text-align:center;}
 			.auto .a_text{width:540px;height:40px;font-size:14px;font-family:"微软雅黑";line-height:40px;padding-left:10px;}
-			.auto .a_btn{width:100px;height:43px;font-size:16px;font-family:"微软雅黑";}
+			.auto .a_btn{width:100px;height:43px;font-size:16px;font-family:"微软雅黑";cursor:pointer;}
 			.auto .a_show{width:552px;margin-left:1px;background-color:#fff;}
 			.auto .a_show div{line-height:30px;font-size:14px;padding-left:10px;}
 			.auto .a_show div:hover{background:#e7e7e7;}
@@ -24,7 +24,7 @@
 		<!--auto start-->
 		<div class="auto">
 			<h1>
-				<img src="images/baidu_jgylogo3.gif" width="170" height="129" alt="百度" />
+				<img src="images/baidu_jgylogo3.jpgf" width="170" height="129" alt="百度" />
 			</h1>
 			<input type="text" name="search" class="a_text" />
 			<input type="button" value="搜索一下" class="a_btn" />
